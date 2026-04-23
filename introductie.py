@@ -1,4 +1,4 @@
-naam = "Nathan" 
+naam = "kai" 
 beroep = "software tester" 
 leerdoel = "Python"
 
